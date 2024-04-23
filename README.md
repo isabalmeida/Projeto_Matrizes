@@ -2,7 +2,7 @@
 
 _Descrição do Projeto_
 
-Neste projeto, criamos uma lanchonete fictíca chamada *. Nosso objetivo foi produzir um cardápio criativo, uma peça publicitária cativante e um código simples para gerenciar os preços dos ingredientes a fim de praticarmos os conceitos aprendidos em aula referente a Matrizes.
+Neste projeto, criamos uma lanchonete fictíca chamada Ctrl+eat lanches codificados. Nosso objetivo foi produzir um cardápio criativo, uma peça publicitária cativante e um código simples para gerenciar os preços dos ingredientes a fim de praticarmos os conceitos aprendidos em aula referente a Matrizes.
 
 **Passo a Passo**
 Cardápio Criativo
