@@ -21,7 +21,7 @@ _Como Usar_:
 
 - Insira a quantidade de cada ingrediente.
 
-O programa calculará e exibirá o preço final do lanche.
+- O programa calculará e exibirá o preço final do lanche.
 
 _Observações_
 
