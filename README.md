@@ -1,5 +1,11 @@
 # Projeto_Matrizes
 
+Os colaboradores do projeto são: 
+
+- Eduardo Henrique
+- Isabela Almeida
+- Luana Marques
+
 **Lanchonete Crtl+eat lanches codificados**
 Este é um programa Python para uma lanchonete fictícia, que permite aos usuários selecionarem um tipo de lanche e calcular o preço final com base nos ingredientes e nos preços de custo.
 
@@ -36,3 +42,5 @@ _Peça Publicitária_
 
 Criamos uma peça publicitária envolvente para promover a lanchonete. Utilizamos imagens atrativas e mensagens persuasivas para atrair clientes em potencial.
 Destacamos os aspectos únicos e deliciosos de nossa lanchonete para garantir que todos saibam sobre nossas ofertas irresistíveis.
+
+
