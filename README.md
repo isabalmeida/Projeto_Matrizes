@@ -5,16 +5,24 @@ Este é um programa Python para uma lanchonete fictícia, que permite aos usuár
 
 _Funcionalidades do programa_
 
+
 Selecionar Tipo de Lanche: Os clientes podem escolher entre diferentes tipos de lanches disponíveis.
+
 Inserir Preços de Custo: Os proprietários podem inserir os preços de custo dos ingredientes de acordo com o mercado selecionado.
+
 Calcular Preço Final: Com base nas quantidades de ingredientes inseridas, o programa calcula o preço final do lanche.
 
 _Como Usar_
 
+
 Execute o arquivo calculo_lanche.py
+
 Escolha o tipo de lanche desejado.
+
 Insira os preços de custo dos ingredientes de acordo com o mercado selecionado. (os valores estão no arquivo separado "tabelas valores")
+
 Insira a quantidade de cada ingrediente.
+
 O programa calculará e exibirá o preço final do lanche.
 
 _Observações_
