@@ -9,7 +9,7 @@ _Funcionalidades do programa_:
 
 - Inserir Preços de Custo: Os proprietários podem inserir os preços de custo dos ingredientes de acordo com o mercado selecionado.
 
--Calcular Preço Final: Com base nas quantidades de ingredientes inseridas, o programa calcula o preço final do lanche.
+- Calcular Preço Final: Com base nas quantidades de ingredientes inseridas, o programa calcula o preço final do lanche.
 
 _Como Usar_:
 
